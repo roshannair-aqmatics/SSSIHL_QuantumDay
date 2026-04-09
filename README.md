@@ -1,7 +1,7 @@
 # SSSIHL x AQMATiCS: The Quantum Maze Solver
 ### World Quantum Day 2026 | Technical Demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roshannair-aqmatics/SSSIHL_QuantumDay/blob/main/SSSIHL_QuantumDay.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rBGujApBkL9R6rjdp_ZpHWSCDwRGo7uv)
 
 ---
 
